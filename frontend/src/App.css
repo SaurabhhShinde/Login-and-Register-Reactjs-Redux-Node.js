@@ -1,0 +1,76 @@
+.App {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(120deg, #ffffff 0%, #ebedee 100%);
+    font-family: Arial, sans-serif;
+}
+
+
+/* .background{
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    background-size: 100%;
+  } */
+  
+  .font{
+    font-family: 'Oswald';
+  }
+  
+  .label{
+    font-family: 'Droid Sans';
+    align-items: left;
+  }
+  
+  
+  .bg{
+    background-image: linear-gradient(to top, #9aacd3fa 0%, #68a9d7 100%);
+    /* background-image: linear-gradient(to right, #434343 0%, black 100%); */
+    /* background-image:url(./assets/2.jpg); */
+    /* background: 
+      repeating-radial-gradient(
+        circle at 0 0, 
+        #eee,
+        #ccc 50px
+      ); */
+    
+  }
+  
+  /* .button {
+     background-color: #4caf4fbb;
+    border: black;
+    color: black;
+    padding: 10px 363px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+  }
+  
+  .button:hover {
+    background-color: #4CAF50; 
+    color: white;
+  }
+  
+  
+  
+  .button1 {
+    background-color: #4caf4fbb;
+   border: black;
+   color: black;
+   padding: 10px 170px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   font-weight: 600;
+   border-radius: 5px;
+  }
+  
+  .button1:hover {
+   background-color: #4CAF50; 
+   color: white;
+  } */
